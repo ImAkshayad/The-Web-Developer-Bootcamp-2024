@@ -1,0 +1,28 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    font-size: 6em;
+    text-align: center;
+}
+nav {
+    font-size: 1.5em;
+}
+
+ul,li {
+    display: inline;
+    margin: 0;
+    padding: 0;
+}
+@media(max-width: 1000px){
+    h1{
+        color:purple;
+    }
+}
+
+@media(max-width: 600px){
+    h1{
+        color:red;
+    }
+}
