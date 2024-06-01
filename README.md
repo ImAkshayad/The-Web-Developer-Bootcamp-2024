@@ -8,4 +8,4 @@ This repository contains projects from Colt Steele's The Web Development Bootcam
 4. [Pricing Panel](https://github.com/ImAkshayad/The-Web-Developer-Bootcamp-2024/tree/main/html-css/pricing-panel/)- A responsive page featuring pricing plans using CSS flex box and various transform properties.
 
 ## JavaScript
-1. [Todo list]((https://github.com/ImAkshayad/The-Web-Developer-Bootcamp-2024/tree/main/javascript/todo-list/) - This project introduces fundamental JavaScript concepts including creating and manipulating arrays, utilizing loops and conditionals, and interacting with users through prompts and console output.
+1. [Todo list](https://github.com/ImAkshayad/The-Web-Developer-Bootcamp-2024/tree/main/javascript/todo-list/) - This project introduces fundamental JavaScript concepts including creating and manipulating arrays, utilizing loops and conditionals, and interacting with users through prompts and console output.
